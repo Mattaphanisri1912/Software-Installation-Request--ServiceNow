@@ -52,7 +52,7 @@ When an employee submits a **Software Installation Request** via the Service Por
 
 ---
 
-## ** Prerequisites & Configuration Steps**
+## **Prerequisites & Configuration Steps**
 
 ### 1. Catalog Item Setup
 * **Name:** Software Installation Request
